@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Graphic_Style" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 60 60" style="enable-background:new 0 0 60 60;" xml:space="preserve">
+<g id="_x23__x23_.Guide_3_" style="display:none;">
+	<g id="_x23_.Document_3_" style="display:inline;">
+		<rect id="Area_11_" x="0" style="opacity:0.3;fill:#00A0E8;" width="60" height="60"/>
+	</g>
+	<g id="_x23_.Safe_area_3_" style="display:inline;">
+		<rect id="Area_10_" x="3" y="3" style="opacity:0.3;fill:#00A0E8;" width="54" height="54"/>
+	</g>
+	<g id="_x23_.Icon_area_3_" style="display:inline;opacity:0.7;">
+		<rect id="Area_9_" x="3" y="3" style="opacity:0.5;fill:#00A0E8;" width="54" height="54"/>
+	</g>
+</g>
+<g>
+	<g>
+		<g>
+			<path style="fill:none;stroke:#151310;stroke-width:1.5;stroke-miterlimit:10;" d="M39.4850845,35.4993896V13.5191526
+				c0-0.5500002-0.4499969-1-1-1h-6.6204796"/>
+		</g>
+		<g>
+			<path style="fill:none;stroke:#151310;stroke-width:1.5;stroke-miterlimit:10;" d="M33.2036095,50.5478783H15.216773
+				c-0.5500002,0-1-0.4500008-1-1V13.5191526c0-0.5500002,0.4499998-1,1-1h6.619401"/>
+		</g>
+	</g>
+	<g>
+		<path style="fill:none;stroke:#151310;stroke-width:1.5;stroke-miterlimit:10;" d="M31.8651409,13.2697058V7.8918042
+			c0-0.165-0.1350002-0.2999997-0.3000011-0.2999997h-9.4284306c-0.1650009,0-0.3000011,0.1349998-0.3000011,0.2999997v5.3779016"/>
+	</g>
+	<g>
+		<path style="fill:none;stroke:#151310;stroke-width:1.5;stroke-miterlimit:10;" d="M48.604248,45.0317574
+			c0,3.8363762-3.1110115,6.9487724-6.9487724,6.9487724c-3.8368073,0-6.9478111-3.1123962-6.9478111-6.9487724
+			c0-3.8372421,3.1110039-6.9487724,6.9478111-6.9487724C45.4932365,38.0829849,48.604248,41.1945152,48.604248,45.0317574z"/>
+		<polyline style="fill:none;stroke:#151310;stroke-width:1.5;stroke-miterlimit:10;" points="45.4895134,45.0317574 
+			41.6559944,45.0317574 41.6559944,40.6573105 		"/>
+	</g>
+	<g>
+		<g>
+			<path style="fill:#151310;" d="M32.4580078,45.0322266c0-2.6257935,1.1113892-4.9919434,2.8814087-6.6696167V16.6003418
+				h-5.1200562h-6.7377319h-5.1190796v29.866272h14.218811C32.5075073,45.9979858,32.4580078,45.5213013,32.4580078,45.0322266z"/>
+		</g>
+	</g>
+</g>
+</svg>
